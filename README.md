@@ -1,7 +1,3 @@
 ## Student Details
 
-abcd
-
-#### License
-
-mit
+Doctype-Asignment-Level-1
