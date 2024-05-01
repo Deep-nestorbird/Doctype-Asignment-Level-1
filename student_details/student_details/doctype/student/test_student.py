@@ -1,4 +1,4 @@
-# Copyright (c) 2024, deep and Contributors
+# Copyright (c) 2024, deep 
 # See license.txt
 
 # import frappe
